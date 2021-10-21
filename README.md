@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Cover](https://github.com/remi-3w/remi-3w/img/photo-profil.png)
 
 <!--
 **remi-3w/remi-3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
